@@ -1,0 +1,20 @@
+{
+  "name": "hagplanid-tj-backend",
+  "version": "0.1.0",
+  "description": "REST API wrapping the Trader Joe's meal planner, for the mobile app and any other client",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "plan": "node src/cli.js plan",
+    "list": "node src/cli.js list",
+    "ics": "node src/cli.js ics"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "commander": "^12.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.0"
+  }
+}

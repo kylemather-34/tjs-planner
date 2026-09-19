@@ -1,0 +1,151 @@
+[
+  {
+    "id": "chicken-stir-fry",
+    "name": "Chicken Stir Fry",
+    "servings": 4,
+    "ingredients": [
+      {
+        "search": "chicken breast",
+        "qty": 1
+      },
+      {
+        "search": "stir fry vegetables",
+        "qty": 1
+      },
+      {
+        "search": "soy sauce",
+        "qty": 1
+      },
+      {
+        "search": "jasmine rice",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": "veggie-pasta",
+    "name": "Veggie Pasta",
+    "servings": 4,
+    "ingredients": [
+      {
+        "search": "penne pasta",
+        "qty": 1
+      },
+      {
+        "search": "marinara sauce",
+        "qty": 1
+      },
+      {
+        "search": "zucchini",
+        "qty": 2
+      },
+      {
+        "search": "parmesan",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": "taco-night",
+    "name": "Taco Night",
+    "servings": 4,
+    "ingredients": [
+      {
+        "search": "ground beef",
+        "qty": 1
+      },
+      {
+        "search": "taco shells",
+        "qty": 1
+      },
+      {
+        "search": "shredded cheese",
+        "qty": 1
+      },
+      {
+        "search": "salsa",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": "salmon-and-greens",
+    "name": "Salmon and Greens",
+    "servings": 4,
+    "ingredients": [
+      {
+        "search": "salmon fillet",
+        "qty": 1
+      },
+      {
+        "search": "frozen broccoli",
+        "qty": 1
+      },
+      {
+        "search": "quinoa",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": "black-bean-bowls",
+    "name": "Black Bean Bowls",
+    "servings": 4,
+    "ingredients": [
+      {
+        "search": "black beans",
+        "qty": 2
+      },
+      {
+        "search": "brown rice",
+        "qty": 1
+      },
+      {
+        "search": "corn",
+        "qty": 1
+      },
+      {
+        "search": "avocado",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "pizza-night",
+    "name": "Pizza Night",
+    "servings": 4,
+    "ingredients": [
+      {
+        "search": "frozen pizza",
+        "qty": 2
+      },
+      {
+        "search": "side salad",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": "breakfast-for-dinner",
+    "name": "Breakfast for Dinner",
+    "servings": 4,
+    "ingredients": [
+      {
+        "search": "eggs",
+        "qty": 1
+      },
+      {
+        "search": "bacon",
+        "qty": 1
+      },
+      {
+        "search": "hash browns",
+        "qty": 1
+      },
+      {
+        "search": "pancake mix",
+        "qty": 1
+      }
+    ]
+  }
+]
